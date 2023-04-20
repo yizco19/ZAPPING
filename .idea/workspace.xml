@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b863b59-df29-4bc0-ad34-b394211ca219" name="Changes" comment="Crear Clase Zapping vacía">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZAPPING.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ZAPPING.iml" afterDir="false" />
+    <list default="true" id="3b863b59-df29-4bc0-ad34-b394211ca219" name="Changes" comment="Test 1&#10;Test canal origen: 0 canal destino 0: Salida: 0 clics">
       <change beforePath="$PROJECT_DIR$/src/TAREA/Zapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TAREA/Zapping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,12 +105,20 @@
       <option name="project" value="LOCAL" />
       <updated>1682011694196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test 1&#10;Test canal origen: 0 canal destino 0: Salida: 0 clics">
+      <created>1682012633576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682012633576</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Crear Clase Zapping vacía" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crear Clase Zapping vacía" />
+    <MESSAGE value="Test 1&#10;Test canal origen: 0 canal destino 0: Salida: 0 clics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 1&#10;Test canal origen: 0 canal destino 0: Salida: 0 clics" />
   </component>
 </project>

@@ -21,4 +21,11 @@ class ZappingTest {
         int clicsReal=zap.numeroOptimoDeCanales(0,0);
         assertEquals(clicsEsperado,clicsReal);
     }
+    @Test
+    public void testnumeroOptimoDeCanales2(){
+        Zapping zap=new Zapping();
+        int clicsEsperado=1;
+        int clicsReal=zap.numeroOptimoDeCanales(1,2);
+        assertEquals(clicsEsperado,clicsReal);
+    }
 }
