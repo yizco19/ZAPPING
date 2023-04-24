@@ -63,4 +63,12 @@ class ZappingTest {
         assertEquals(clicsEsperado,clicsReal);
         System.out.println("Test 6");
     }
+    @Test
+    public void testnumeroOptimoDeCanales7(){
+        Zapping zap=new Zapping();
+        int clicsEsperado=49;
+        int clicsReal=zap.numeroOptimoDeCanales(1,51);
+        assertEquals(clicsEsperado,clicsReal);
+        System.out.println("Test 7");
+    }
 }
