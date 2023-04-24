@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b863b59-df29-4bc0-ad34-b394211ca219" name="Changes" comment="Test 3-4">
+    <list default="true" id="3b863b59-df29-4bc0-ad34-b394211ca219" name="Changes" comment="Test 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST/TAREA/ZappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/TAREA/ZappingTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TAREA/Zapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TAREA/Zapping.java" afterDir="false" />
     </list>
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682347594221</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test 5">
+      <created>1682347820751</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682347820751</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,7 +168,8 @@
     <MESSAGE value="Test 1&#10;Test canal origen: 0 canal destino 0: Salida: 0 clics" />
     <MESSAGE value="Test 2&#10;Test canal origen: 1 canal destino 2: Salida: 1 clics" />
     <MESSAGE value="Test 3-4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 3-4" />
+    <MESSAGE value="Test 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
