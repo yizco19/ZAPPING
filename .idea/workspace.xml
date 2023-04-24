@@ -7,6 +7,7 @@
     <list default="true" id="3b863b59-df29-4bc0-ad34-b394211ca219" name="Changes" comment="Test 2&#10;Test canal origen: 1 canal destino 2: Salida: 1 clics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TEST/TAREA/ZappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/TAREA/ZappingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TAREA/Zapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TAREA/Zapping.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="TAREA" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.ZappingTest">
     <configuration name="ZappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ZAPPING" />
       <extension name="coverage">
@@ -70,9 +71,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZappingTest.testnumeroOptimoDeCanales1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ZAPPING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TAREA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TAREA" />
+      <option name="MAIN_CLASS_NAME" value="TAREA.ZappingTest" />
+      <option name="METHOD_NAME" value="testnumeroOptimoDeCanales1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ZappingTest" />
+        <item itemvalue="JUnit.ZappingTest.testnumeroOptimoDeCanales1" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682012946071</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test 2&#10;Test canal origen: 1 canal destino 2: Salida: 1 clics">
+      <created>1682347112159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682347112159</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
